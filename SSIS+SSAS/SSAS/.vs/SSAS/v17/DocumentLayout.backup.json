@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Super Store.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|solutionrelative:Super Store.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Ship Mode.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|solutionrelative:Dim Ship Mode.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Time.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|solutionrelative:Dim Time.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|solutionrelative:Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Super Store.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|solutionrelative:Super Store.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{9E1ADC32-8BEF-18F1-0604-FACDFEC6EE71}|SSAS.dwproj|solutionrelative:Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Super Store.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Super Store.cube",
+              "RelativeDocumentMoniker": "Super Store.cube",
+              "ToolTip": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Super Store.cube [Design]",
+              "RelativeToolTip": "Super Store.cube [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQpSURBVDhPtZRbTBxVGMf/7DK7sLvcFrkIC4JtKFSKjQJGTZq0aqwk1aSxmmqMJjz50EQfTIzhpT40xuCDRn3QJtVE44M\u002BtdFWhQRbtLYIFQqtXGTZXWhZWGbZZed6Zs74ndkNNDbxzS/57zdzZs7vfLfZIvyHvfPm0VPHn7n37ZnRTworQHNHH5bVjuEX\u002Bj94qrC0Y47j3AWMNITv\u002B/BU/5mVmW8DIV8m0tbZ3bDroefAbRMOt5GMjmN\u002BciQTTciz7Y/04\u002BMvRt8dvnj9h8J2bAOPPN19rLNVOqDJk5VHDncfq23a45NKggiU16G2tRucEdBmSK/OQV65Ac4tKJk1jIxODa3nymdNb2vs0zM/DrrAh/e19L32/N43Httf8aRhpN0D2h99GWXhZtpokxgci4G7sghsghkaFia\u002Bg66k4Q\u002BEcVuWFgfeP3vSBQ4OvHhl9z3zPZGmKuw7dAKekjCt0iMBsy0SAcnbloiS7gtgm8CmsoFb879gevwCppcAjwAKa47UoCGUQvbmaYBe3DanoPzPv7yD2/PfQ44PIVCSXy3OO8Bf141QYylFYBD0c2oYh7\u002BmF77wg\u002B41NZD2Cw/k0kuI//m1uxYqltFU54df8hLF2InQS2kWl7WgOBShlKtQ5AuCbf0NNXYWeuIcNUXF2uJFxCa/gbx4AUHEEXBiKPVqKPEVQfLmI98GuiaO90iQwp0U2V66N2DK12CkxpBO/I5sfBhK/DzszQnUVJWgutIPyeOAMQZGNRW2AySY49huyo6tU1dVN2pfdSc8oVYsjZ9GsGgFLY0VqK0uhcVsEoFonAzhbe5i7gDa1FWdGiKkwaEUhSDA0HF/pAKhUp9bN9visGkCGLOgU2SGyaEX\u002BrgNdCwNnGaQGynipYi9QdcbsEnckN0DLRobXdegaRoUVUNWYdjMcaRz1Cgtz9kBijRZFtzMkC/IzALu/RZFRWmZDIZhQiMpukUQDoVAQpqR52wDVcVELqu63eSUpqihKzd1jaJjMClFk2qnU4oCINLUyec0H1QjhLJAAagbTIkvW2Y8wWCZOixDJ3C\u002BjpzqySl6y6SvQqTMqF4E0ajUquEhebGp1CGrd9jNtciKacT07PJI\u002BwO99W17uroWo2kk5RCC3g34sOk2xSFQTt2CqjvQRFQk1fRg4VY71jIR1O8\u002BiPq2AzNvvffTYReoaGZmfSOzMj45d2l6Nnnl4BPPPq6qTEptBWBYEg3vGjaz1AwCrspViCWbkNHq0d57HJevr3029OvMRxPT0XNTNxOXXaCw1eT6ytxCfCqZ2loor6yR/phcuub4Gr019bsalFwWi3EglQmCl\u002B6H4ulM/Pzb0ldMqh67dHXmy6sTN85HY4l5wbnrD/ZOe\u002BWlo6/3Hep5NTo3huhfMfdraOvqAfdXjg2cHDxReO3/NOAfMKGHLuO0xz4AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-06T16:38:53.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Ship Mode.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Ship Mode.dim",
+              "RelativeDocumentMoniker": "Dim Ship Mode.dim",
+              "ToolTip": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Ship Mode.dim [Design]",
+              "RelativeToolTip": "Dim Ship Mode.dim [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHRSURBVDhPrdRPKINhHAfw7X03GRvvSP4Uc7CSaZImf9LIv\u002BJiRQ4oOTo47SahnRy4OHBwcXBxI1JEzi5qajmoidYsGo0ZZnt9f8/elfRue7d86/P29rxv3573fd73Uf1rRFGUzlicsJg4zT08Hex9w06O4ycNhuImW0e3cH97cxGPx2PsjizD0aHGVDsmCEarIAj1dWbzBMdxeexq6lTA1C\u002BtwMJmqMvj\u002BgMPvqqPSPiLE6Nur9e7ixlG2R3yaYRVoLJR\u002BIQjSITn\u002BQK1Wr0JOxqNplAaTheaSCVcQxzWgYU9ciwWe8cCReEbCbMr6WOFLViAYxpIhhVmGTs44FRCs9sHlmwL6eV3AX0BaxCEQzgBFqWFdB\u002Bt7BzQYi2DbJQWlsEB0Gw2aCBVlBTSY9InQs4hBCmTqZAWYACugGboh7RJV9gMvaCBFXiFjJErpDE9uOAZlkBx5ApNcAbbkqzC/mUpQ9AD5bAHVPoIssEGkm\u002BxWFwtbfapouISvd9356bxv4WDUA2XYAZbKvjv241G42yhQeh8ew2VBvy\u002BN4x71DgkQxss7RyKgkIe211DfoFeF4lEAi/BJ9ptZhJXc4hWqzU4HA7PvGtVHBmflnYbleoHgM53FrApWgYAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-06T16:34:00.043Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Time.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Time.dim",
+              "RelativeDocumentMoniker": "Dim Time.dim",
+              "ToolTip": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Time.dim [Design]",
+              "RelativeToolTip": "Dim Time.dim [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHRSURBVDhPrdRPKINhHAfw7X03GRvvSP4Uc7CSaZImf9LIv\u002BJiRQ4oOTo47SahnRy4OHBwcXBxI1JEzi5qajmoidYsGo0ZZnt9f8/elfRue7d86/P29rxv3573fd73Uf1rRFGUzlicsJg4zT08Hex9w06O4ycNhuImW0e3cH97cxGPx2PsjizD0aHGVDsmCEarIAj1dWbzBMdxeexq6lTA1C\u002BtwMJmqMvj\u002BgMPvqqPSPiLE6Nur9e7ixlG2R3yaYRVoLJR\u002BIQjSITn\u002BQK1Wr0JOxqNplAaTheaSCVcQxzWgYU9ciwWe8cCReEbCbMr6WOFLViAYxpIhhVmGTs44FRCs9sHlmwL6eV3AX0BaxCEQzgBFqWFdB\u002Bt7BzQYi2DbJQWlsEB0Gw2aCBVlBTSY9InQs4hBCmTqZAWYACugGboh7RJV9gMvaCBFXiFjJErpDE9uOAZlkBx5ApNcAbbkqzC/mUpQ9AD5bAHVPoIssEGkm\u002BxWFwtbfapouISvd9356bxv4WDUA2XYAZbKvjv241G42yhQeh8ew2VBvy\u002BN4x71DgkQxss7RyKgkIe211DfoFeF4lEAi/BJ9ptZhJXc4hWqzU4HA7PvGtVHBmflnYbleoHgM53FrApWgYAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-06T16:24:18.225Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Dim Product.dim",
+              "ToolTip": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Product.dim [Design]",
+              "RelativeToolTip": "Dim Product.dim [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHRSURBVDhPrdRPKINhHAfw7X03GRvvSP4Uc7CSaZImf9LIv\u002BJiRQ4oOTo47SahnRy4OHBwcXBxI1JEzi5qajmoidYsGo0ZZnt9f8/elfRue7d86/P29rxv3573fd73Uf1rRFGUzlicsJg4zT08Hex9w06O4ycNhuImW0e3cH97cxGPx2PsjizD0aHGVDsmCEarIAj1dWbzBMdxeexq6lTA1C\u002BtwMJmqMvj\u002BgMPvqqPSPiLE6Nur9e7ixlG2R3yaYRVoLJR\u002BIQjSITn\u002BQK1Wr0JOxqNplAaTheaSCVcQxzWgYU9ciwWe8cCReEbCbMr6WOFLViAYxpIhhVmGTs44FRCs9sHlmwL6eV3AX0BaxCEQzgBFqWFdB\u002Bt7BzQYi2DbJQWlsEB0Gw2aCBVlBTSY9InQs4hBCmTqZAWYACugGboh7RJV9gMvaCBFXiFjJErpDE9uOAZlkBx5ApNcAbbkqzC/mUpQ9AD5bAHVPoIssEGkm\u002BxWFwtbfapouISvd9356bxv4WDUA2XYAZbKvjv241G42yhQeh8ew2VBvy\u002BN4x71DgkQxss7RyKgkIe211DfoFeF4lEAi/BJ9ptZhJXc4hWqzU4HA7PvGtVHBmflnYbleoHgM53FrApWgYAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-06T16:17:45.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Dim Customer.dim",
+              "ToolTip": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Dim Customer.dim [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHRSURBVDhPrdRPKINhHAfw7X03GRvvSP4Uc7CSaZImf9LIv\u002BJiRQ4oOTo47SahnRy4OHBwcXBxI1JEzi5qajmoidYsGo0ZZnt9f8/elfRue7d86/P29rxv3573fd73Uf1rRFGUzlicsJg4zT08Hex9w06O4ycNhuImW0e3cH97cxGPx2PsjizD0aHGVDsmCEarIAj1dWbzBMdxeexq6lTA1C\u002BtwMJmqMvj\u002BgMPvqqPSPiLE6Nur9e7ixlG2R3yaYRVoLJR\u002BIQjSITn\u002BQK1Wr0JOxqNplAaTheaSCVcQxzWgYU9ciwWe8cCReEbCbMr6WOFLViAYxpIhhVmGTs44FRCs9sHlmwL6eV3AX0BaxCEQzgBFqWFdB\u002Bt7BzQYi2DbJQWlsEB0Gw2aCBVlBTSY9InQs4hBCmTqZAWYACugGboh7RJV9gMvaCBFXiFjJErpDE9uOAZlkBx5ApNcAbbkqzC/mUpQ9AD5bAHVPoIssEGkm\u002BxWFwtbfapouISvd9356bxv4WDUA2XYAZbKvjv241G42yhQeh8ew2VBvy\u002BN4x71DgkQxss7RyKgkIe211DfoFeF4lEAi/BJ9ptZhJXc4hWqzU4HA7PvGtVHBmflnYbleoHgM53FrApWgYAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-06T15:24:09.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Super Store.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Super Store.dsv",
+              "RelativeDocumentMoniker": "Super Store.dsv",
+              "ToolTip": "C:\\Users\\Cao Anh\\HUIT - H\u1ECDc T\u1EADp\\N\u0103m 2\\H\u1ECDc K\u1EF3 2\\Kho_D\u1EEF_Li\u1EC7u\\Code_\u0110\u1ED3_\u00C1n\\Super_Store\\SSAS\\Super Store.dsv [Design]",
+              "RelativeToolTip": "Super Store.dsv [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOvSURBVDhPlZVdaBxVGIbf\u002Bdk5M7ObnyabZBOzze7WJrFpYmMq9UL8oVp7IbQKtiBCIGBBVAhFhF5ZL9oLvREiCApCK2ilaFooWgW1lVbSlpQQaC2JdbvZZNttNsnuZn9mZufMeCaZrJFptT4we2bOvvPO933znTP4dw4dBeYsYHwWCLW5k/fHtm337F4cGQGuMiPHMK4BP1wFnnja/fO\u002BCO5YhePqWwI1g4cl8tTLEgm0S6QAiZQFiaghiSjN4ArLlM5OuXIPnDtW4biGVmb4HjifHGwO9ftrG3pzBR0\u002BgT2bqQ197IyunT/pyj14DH0\u002BUQq3t0Zsq8JHu/uHWzq6Dywu61BlCTxT84IEQSBM\u002Bc9bdaOCuTsZr2EsGt78zVcjv2j5mcDZ3xKkaAhk6JWtVWHNhk2oC/awM2l1wuX6VBxDB4\u002BCd6\u002BhqHvfUv3737WpLlTyUzWRjWJtU1AgsiKjMdSJ0XPz0Gw//EoZRvEmCJFxbU7G\u002ByOncfzk91AUwrLzrRkOviGKewZFMdJjUwPa0g3IVgISl2MCEwHVwLaYiXSmiHgyi4qeg1ExcPzECSTnNfg3hFnLAJZlOYa79wKvDwN9A4JQF5ZJdCctLYh2MQHbyDKhAYXPYvfjAhR6F4WlRWgGa6YFC6nUHDo7e9EeG0BywQal1DH8fBSIbnbiVJRNzzQE94xQk1OoVgJMdudaq7Ju3N42j66mHLJFG1fiBPteO4juLf34M23hwu9MwKjWcD22912twDnT7DAokMlTUOaR12wU2LEGMxx6ia2EaeeiXL55LpMZfZuaWpktoxXBehxDp3WCNcCuR3mWosXSt9AR5PDkI6uxsd\u002Bzp4DPPgImxynNJUvF6Z9KmmFSixky0/XL8\u002BING5MJCyrhsLGRYuziGRAjjr4ODuHG1azclI99Ypqnj5nmrWvgRPByCNmSiqImwjRtZBbKmPhDx9i0D7PZOvikWvYwCjN7HVZ2EraWWnHhef7vGpZLpz4uFb/\u002BQJT8tCm2c3ki0ZSfyQT0si7i0uUMjnxRQLQthOd3bEN9QzdU1p\u002BffngIt5K38eW3P67UVhRFb/WdpfdQa3PErJT51ocHhvsee\u002BHAQNcOPPtcBKGgCr\u002BqQPARVs/VWNLziywyjo1LePXNw17D9ZvD1u1qf6yL9BYLJnq2hCBJns2pSjZXwK\u002BXJu5lWN/iD\u002Bx/B3hxX1tHbThQfxepdBpEcqL6\u002BTtgJu5K/y\u002BeDXb8QTbY/8D5BKRY3zzgJwDAXyGHa/g/Q0S5AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-06T15:19:56.188Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

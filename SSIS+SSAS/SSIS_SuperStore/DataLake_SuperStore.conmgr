@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DataLake_SuperStore"
+  DTS:DTSID="{9E6A9D47-7771-482B-9223-B931386B08C4}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-362LF5BT\SQL_SERVER_2022;Initial Catalog=DataLake_SuperStore;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SSIS_SuperStore-{9E6A9D47-7771-482B-9223-B931386B08C4}LAPTOP-362LF5BT\SQL_SERVER_2022.DataLake_SuperStore;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

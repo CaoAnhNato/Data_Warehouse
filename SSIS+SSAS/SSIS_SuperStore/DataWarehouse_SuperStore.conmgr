@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-362LF5BT_SQL_SERVER_2022.DataWarehouse_SuperStore"
+  DTS:DTSID="{116662A2-CA08-47AB-B714-3938A0057C32}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-362LF5BT\SQL_SERVER_2022;Initial Catalog=DataWarehouse_SuperStore;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-SSIS_SuperStore-{116662A2-CA08-47AB-B714-3938A0057C32}LAPTOP-362LF5BT\SQL_SERVER_2022.DataWarehouse_SuperStore;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DataWarehouse_AdWork public_acc"
+  DTS:DTSID="{1A914BCE-A4A4-4D9D-B119-DF8685AF1F04}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-362LF5BT\SQL_SERVER_2022;User ID=public_acc;Initial Catalog=DataWarehouse_AdWork;Provider=SQLNCLI11.1;Application Name=SSIS-SSIS_Project-{1A914BCE-A4A4-4D9D-B119-DF8685AF1F04}LAPTOP-362LF5BT\SQL_SERVER_2022.DataWarehouse_AdWork.public_acc;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABiQuefrfE0SjmyqS+ckARgAAAAACAAAAAAAQZgAAAAEAACAAAACB8xd69ucY8h57sis+0ngaaVJdpQn8pUm6hX0iZ1BapAAAAAAOgAAAAAIAACAAAABcgwIXlG8WCY6CQv11Fel0eb+DFQNIiuEQRAaN9byNUnAAAAB5iDF/VA+mfVQsQ0DnlIYXhGs7CtArsGjcNoNRR5hi/FRY6F1ca2cJqxlkIuUjxaMlNbAoYu+2ihk0bvE6TPMyid65fvuobediQsWWAY9bpsrI9z8ZHYMtbZeaJwffHN/oYFkj1JMrmWcY2YZsTIghQAAAABR5hhE3rg7z7hsKuB7eYZesF0xdfYmBM/9tMkZZGyN//Vq9rgt+9LQ6Qj5ybBFl5hD7e1EEXUCPPdETzn7UlIs=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

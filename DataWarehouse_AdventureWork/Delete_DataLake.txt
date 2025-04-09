@@ -1,0 +1,85 @@
+if exists (select name from sys.Tables where name = 'DataLake Dim_Territory')
+	begin
+		DELETE FROM [dbo].[DataLake Dim_Territory];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'DataLake Dim_Date')
+	begin
+		DELETE FROM [Project].[DataLake Dim_Date];
+	end
+go
+
+
+if exists (select name from sys.Tables where name = 'DataLake Dim_Product')
+	begin
+		DELETE FROM [Project].[DataLake Dim_Product];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'DataLake Dim_SalesPerson')
+	begin
+		DELETE FROM [Project].[DataLake Dim_SalesPerson];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'DataLake Person')
+	begin
+		DELETE FROM [Project].[DataLake Person];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'DataLake Employees')
+	begin
+		DELETE FROM [Project].[DataLake Employees];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'DataLake Fact_SalesOrder')
+	begin
+		DELETE FROM [Project].[DataLake Fact_SalesOrder];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'DataLake Product')
+	begin
+		DELETE FROM [Project].[DataLake Product];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'DataLake Product Category')
+	begin
+		DELETE FROM [Project].[DataLake Product Category];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'DataLake Product Sub Category')
+	begin
+		DELETE FROM [Project].[DataLake Product Sub Category];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'DataLake Sales Order Detail')
+	begin
+		DELETE FROM [Project].[DataLake Sales Order Detail];
+	end
+go
+
+
+if exists (select name from sys.Tables where name = 'DataLake Sales Order Header')
+	begin
+		DELETE FROM [Project].[DataLake Sales Order Header];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'DataLake Territory')
+	begin
+		DELETE FROM [Project].[DataLake Territory];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'Fact Product')
+	begin
+		DELETE FROM [Project].[Fact Product];
+	end
+go

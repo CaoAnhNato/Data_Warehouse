@@ -1,0 +1,82 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>SSAS_Project</Database>
+    <Server>LAPTOP-362LF5BT\SQL_SERVER_2022</Server>
+    <ConnectionString>Data Source=LAPTOP-362LF5BT\SQL_SERVER_2022;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>qjT5mwDx4qZzwF12QXvtKuAvJA0=10/04/2025 12:38:39 SA10/04/2025 12:38:38 SA</TimeStamp>
+        <ID>
+          <String>AdWork</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>mHdpSorUakgkS0qE4aH8muCHKZg=10/04/2025 1:01:45 SA10/04/2025 1:01:45 SA</TimeStamp>
+        <ID>
+          <String>AdWork</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>gMeO7k6mz3sSNAsAIgtDpp5SwpY=10/04/2025 1:05:22 SA10/04/2025 1:02:39 SA</TimeStamp>
+        <ID>
+          <String>Dim Sales Person</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>YxYWrOV3onQ+6fDJt5gf7HzSza8=10/04/2025 1:05:22 SA10/04/2025 1:05:22 SA</TimeStamp>
+        <ID>
+          <String>Dim Territory</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>EHgoEJeOC7Lm1ysPwMBJZNpbcFQ=10/04/2025 1:11:39 SA10/04/2025 1:06:01 SA</TimeStamp>
+        <ID>
+          <String>Dim Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Fv7oexeerUVSaLvTN2HRJFm7hew=10/04/2025 1:11:39 SA10/04/2025 1:06:49 SA</TimeStamp>
+        <ID>
+          <String>Dim Product</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>8/grI/8w74jkQM+XMb8h1CK6npQ=10/04/2025 1:16:49 SA10/04/2025 1:11:39 SA+2bVJC2MjsGwbVkjVeBkpX94uR4=10/04/2025 1:11:39 SA10/04/2025 1:11:39 SA</TimeStamp>
+        <ID>
+          <String>AdWork</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>N+6FlI5/h5YjvpiBL53skWWatsU=10/04/2025 12:36:20 SA10/04/2025 12:36:19 SA</TimeStamp>
+      <ID>
+        <String>SSAS_Project</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2025-04-09T18:16:55.226667Z</LastDeployed>
+</DeploymentSnapshot>

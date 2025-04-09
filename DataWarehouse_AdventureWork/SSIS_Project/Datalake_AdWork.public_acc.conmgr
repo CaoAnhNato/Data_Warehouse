@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-362LF5BT_SQL_SERVER_2022.Datalake_AdWork.public_acc"
+  DTS:DTSID="{108F38C7-C12B-4614-A1D1-645C473DCA00}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-362LF5BT\SQL_SERVER_2022;User ID=public_acc;Initial Catalog=Datalake_AdWork;Provider=SQLNCLI11.1;Application Name=SSIS-SSIS_Project-{108F38C7-C12B-4614-A1D1-645C473DCA00}LAPTOP-362LF5BT\SQL_SERVER_2022.Datalake_AdWork.public_acc;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABiQuefrfE0SjmyqS+ckARgAAAAACAAAAAAAQZgAAAAEAACAAAADcU6LWoFQ9srhW0UJcKrzgSqFJnOJTJZOoEazRV+1t/AAAAAAOgAAAAAIAACAAAAApdW1O2L2nd5DKM6X0dNV81nbmeWC6qNQ+J3x2mfQcZnAAAADYJFiiapqeTtrMcwXTV7EtlEOdYYhqbx/PUriKBApuo2TVoNmT1y2CgnmwmBVMcpKhqldIofzq1fC1vS2Y2yRN+fgZg2rcEY3gT21pmh4vSSQypVILamirbDRX2HYps8iXoWg/JtQomygmmt0VemBlQAAAAHEM69SxEMUlsk25/qF8vBcU2va4BA3ZXha5Z3fUOxvuA+VuP4P3P41QfaOlPfxs4IOhWWA+TeMDKtvvRpWr+JA=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

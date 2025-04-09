@@ -1,0 +1,61 @@
+if exists (select name from sys.Tables where name = 'Dim_Date')
+	begin
+		DELETE FROM [Project].[Dim_Date];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'Dim_Month')
+	begin
+		DELETE FROM [Project].[Dim_Month];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'Dim_Product')
+	begin
+		DELETE FROM [Project].[Dim_Product];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'Dim_Product_Sub_Category')
+	begin
+		DELETE FROM [Project].[Dim_Product_Sub_Category];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'Dim_ProductCategory')
+	begin
+		DELETE FROM [Project].[Dim_ProductCategory];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'Dim_SalesPerson')
+	begin
+		DELETE FROM [Project].[Dim_SalesPerson];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'Dim_Territory')
+	begin
+		DELETE FROM [Project].[Dim_Territory];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'Dim_Year')
+	begin
+		DELETE FROM [Project].[Dim_Year];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'Fact_Product')
+	begin
+		DELETE FROM [Project].[Fact_Product];
+	end
+go
+
+if exists (select name from sys.Tables where name = 'Fact_SalesOrder')
+	begin
+		DELETE FROM [Project].[Fact_SalesOrder];
+	end
+go
+
+
